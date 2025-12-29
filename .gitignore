@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# HuggingFace / Transformers cache
+.cache/
+
+# Training outputs / models
+bert_type_model/
+training_output/
+
+# Data files
+data/
+*.csv
+
+# Logs
+*.log
